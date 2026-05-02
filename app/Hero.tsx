@@ -49,22 +49,27 @@ export default function Hero() {
             variants={item}
             className="text-lg md:text-xl text-white/50 max-w-lg leading-relaxed mb-10 md:mb-14 font-medium"
           >
-            Full Stack Engineer building high-performance interfaces, 3D AI
-            experiences, and robust architectures.
+            Full Stack Engineer building scalable web applications, AI powered
+            systems, and high performance user interfaces
           </motion.p>
 
           <motion.div variants={item} className="flex flex-wrap gap-4 mb-14">
-            <button className="bg-white text-black px-9 py-4 rounded-full text-sm font-bold tracking-widest hover:bg-gray-200 transition-all duration-300">
-              VIEW WORK
-            </button>
-            <button className="border border-white/20 bg-transparent px-9 py-4 rounded-full text-sm font-bold tracking-widest text-white hover:bg-white/10 transition-all duration-300">
-              READ RESUME
-            </button>
+            <a href="#projects">
+              <button className="bg-white cursor-pointer text-black px-9 py-4 rounded-full text-sm font-bold tracking-widest hover:bg-gray-200 transition-all duration-300">
+                VIEW WORK
+              </button>
+            </a>
+            <a target="_blank" href="https://ifechukwu-resume.tiiny.site">
+              <button className="border cursor-pointer border-white/20 bg-transparent px-9 py-4 rounded-full text-sm font-bold tracking-widest text-white hover:bg-white/10 transition-all duration-300">
+                READ RESUME
+              </button>
+            </a>
           </motion.div>
 
           {/* Social Links inline */}
           <motion.div variants={item} className="flex gap-6 items-center">
             <a
+              target="_blank"
               href="https://github.com/PerryAlex-hub"
               className="text-white/40 hover:text-white transition-colors duration-300"
             >
@@ -77,6 +82,7 @@ export default function Hero() {
               </svg>
             </a>
             <a
+              target="_blank"
               href="https://linkedin.com/in/ifechukwu-nwokedi-936250268"
               className="text-white/40 hover:text-white transition-colors duration-300"
             >

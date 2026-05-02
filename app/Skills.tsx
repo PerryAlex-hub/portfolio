@@ -10,21 +10,19 @@ const skills = [
       "Next.js",
       "Nuxt.js",
       "Tailwind CSS",
-      "Framer Motion",
-      "Three.js",
     ],
   },
   {
     category: "Backend & Systems",
-    items: ["Node.js", "Express", "Python", "WebRTC", "Firebase", "Zod"],
+    items: ["Node.js", "Express.js", "Python"],
   },
   {
     category: "Data & Cloud",
-    items: ["PostgreSQL", "Neon", "Prisma", "AWS S3"],
+    items: ["PostgreSQL", "Neon", "Prisma", "AWS S3", "MongoDB"],
   },
-  {
-    category: "AI & Specialized",
-    items: ["OpenAI API", "rPPG Biometrics", "OpenCV", "Conversational AI"],
+    {
+        category: "Tools & Technologies",
+        items: [ "Docker", "Postman", "Prisma", "Redux", "TanStack Query", "GCP"],
   },
 ];
 

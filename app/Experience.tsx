@@ -5,27 +5,27 @@ import { motion } from "framer-motion";
 const experiences = [
   {
     role: "Full Stack Engineer",
-    company: "EvexAI",
+    company: "Evexai",
     period: "Sept 2025 – Apr 2026",
     description:
-      "Engineered a 3D AI Interviewer integrating conversational AI and interactive 3D visualization. EvexAI is the visibility layer for modern hiring, delivering pre-vetted talent and AI-powered performance insights so companies hire faster.",
-    tech: ["Next.js", "AI", "3D Visualization", "Performance Optimization"],
+      "Built key features for an AI driven recruitment platform, including a 3D AI interviewer with conversational AI. Developed the hiring workflow and implemented frontend systems for candidate recommendations, transcript analysis, and evaluation insights by integrating backend APIs.",
+    tech: ["Next.js", "AI", "Express.js", "Prisma", "Tailwind CSS"],
   },
   {
     role: "Full Stack Engineer Intern",
     company: "VenturSeed",
     period: "Jan 2026 – Mar 2026",
     description:
-      "Developed and maintained the IntelliToggle Admin Panel, building responsive and scalable UI components in Nuxt.js. Integrated Firebase Cloud Messaging (FCM) to implement real-time push notifications.",
-    tech: ["Nuxt.js", "Firebase", "Real-time Systems", "UI Components"],
+      "Developed and maintained the IntelliToggle Admin Panel using Nuxt.js, building scalable and responsive UI components. Managed Firebase Admin SDK and Google Cloud Platform (GCP) integration across production systems to ensure reliable backend infrastructure. Implemented Firebase Cloud Messaging (FCM) for real-time push notifications, enabling instant user updates across the application",
+    tech: ["Nuxt.js", "Firebase", "GCP", "Dart", "Gitlab CI/CD"],
   },
   {
     role: "Front-End Intern",
     company: "CodeAlpha",
     period: "Jun 2024 – Jun 2025",
     description:
-      "Developed and optimized 15+ responsive user interfaces using Next.js and Tailwind CSS, enhancing cross-device compatibility and reducing load times by 30%. Implemented WCAG 2.1 accessibility best practices.",
-    tech: ["React", "Tailwind CSS", "WCAG 2.1", "Responsive Design"],
+      "Developed responsive web interfaces using Next.js and Tailwind CSS, ensuring consistent performance across devices and screen sizes Translated UI/UX designs into functional frontend components and integrated REST APIs for dynamic data rendering Improved usability and performance through code optimization, reusable components, and modern frontend best practices", 
+    tech: ["React", "Tailwind CSS", "Next.js", "Responsive Design"],
   },
 ];
 

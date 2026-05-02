@@ -37,7 +37,7 @@ const projects = [
     type: "AI Recruitment Platform",
     description:
       "Stop Hiring Blind. Start Hiring with Signal. EvexAI is the visibility layer for modern hiring, delivering pre-vetted, high-potential talent through video-first profiles and AI-powered insights. Engineered a fully interactive conversational 3D AI Interviewer.",
-    tech: ["Next.js", "Three.js", "OpenAI", "Tailwind", "WebRTC"],
+    tech: ["Next.js", "Express.js", "OpenAI", "Tailwind", "WebRTC"],
     image: "/evexai.png",
     link: "https://recruiter.evexai.ink/",
   },

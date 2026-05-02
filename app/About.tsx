@@ -18,8 +18,8 @@ export default function About() {
           className="md:w-1/3"
         >
           <h2 className="text-4xl md:text-5xl lg:text-6xl font-bold tracking-tighter leading-tight">
-            Engineering <br />
-            <span className="text-white/40">the unseen.</span>
+            Engineering Scalable <br />
+            <span className="text-white/40"> systems.</span>
           </h2>
           <div className="w-20 h-[1px] bg-white/20 mt-8" />
         </motion.div>
@@ -45,7 +45,7 @@ export default function About() {
             boundaries of what the web can do.
           </p>
           <p>
-            I believe that great software is inherently invisible—it should feel
+            I believe that great software is inherently invisible. It should feel
             effortless, fast, and entirely natural. My approach combines
             rigorous architectural planning, strict performance optimization,
             and an obsession with minimalist, premium design.
