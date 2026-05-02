@@ -17,7 +17,7 @@ const experiences = [
     period: "Jul 2025 – Apr 2026",
     description:
       "Architected and developed a scalable EdTech platform serving as a centralized academic hub. Engineered resilient backend systems and responsive UIs to consolidate course materials, timetables, and real-time announcements, completely eliminating fragmented communication across departments.",
-    tech: ["Next.js", "PostgreSQL", "Tailwind CSS", "System Architecture"],
+    tech: ["Next.js", "Neon", "Tailwind CSS", "System Architecture", "Express.js", "React Native"],
   },
   {
     role: "Full Stack Engineer Intern",
