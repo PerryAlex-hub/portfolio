@@ -17,7 +17,14 @@ const experiences = [
     period: "Jul 2025 – Apr 2026",
     description:
       "Architected and developed a scalable EdTech platform serving as a centralized academic hub. Engineered resilient backend systems and responsive UIs to consolidate course materials, timetables, and real-time announcements, completely eliminating fragmented communication across departments.",
-    tech: ["Next.js", "Neon", "Tailwind CSS", "System Architecture", "Express.js", "React Native"],
+    tech: [
+      "Next.js",
+      "Neon",
+      "Tailwind CSS",
+      "System Architecture",
+      "Express.js",
+      "React Native",
+    ],
   },
   {
     role: "Full Stack Engineer Intern",
@@ -32,7 +39,7 @@ const experiences = [
     company: "CodeAlpha",
     period: "Jun 2024 – Jun 2025",
     description:
-      "Developed responsive web interfaces using Next.js and Tailwind CSS, ensuring consistent performance across devices and screen sizes Translated UI/UX designs into functional frontend components and integrated REST APIs for dynamic data rendering Improved usability and performance through code optimization, reusable components, and modern frontend best practices", 
+      "Developed responsive web interfaces using Next.js and Tailwind CSS, ensuring consistent performance across devices and screen sizes Translated UI/UX designs into functional frontend components and integrated REST APIs for dynamic data rendering Improved usability and performance through code optimization, reusable components, and modern frontend best practices",
     tech: ["React", "Tailwind CSS", "Next.js", "Responsive Design"],
   },
 ];
