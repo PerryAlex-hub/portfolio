@@ -59,7 +59,7 @@ export default function Hero() {
                 VIEW WORK
               </button>
             </a>
-            <a target="_blank" href="https://ifechukwu-resume.tiiny.site">
+            <a target="_blank" href="/Ifechukwu-resume.pdf">
               <button className="border cursor-pointer border-white/20 bg-transparent px-9 py-4 rounded-full text-sm font-bold tracking-widest text-white hover:bg-white/10 transition-all duration-300">
                 READ RESUME
               </button>
