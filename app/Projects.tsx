@@ -50,6 +50,15 @@ const projects = [
     image: "/qademy.png",
     link: "https://www.qademy.app/",
   },
+  {
+    title: "llmix",
+    type: "Open Source SDK",
+    description:
+      "Built and published llmix, an open source Node.js SDK that provides a unified API for interacting with multiple AI providers including OpenAI, Anthropic, and Gemini. Developers can switch between providers with a single config change without modifying application logic.",
+    tech: ["Node.js", "npm", "SDK", "OpenAI", "Anthropic", "Gemini"],
+    image: "/llmix.png",
+    link: "https://www.npmjs.com/package/llmix",
+  },
 ];
 
 export default function Projects() {
